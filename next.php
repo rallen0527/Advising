@@ -2,6 +2,7 @@
 	session_start();
 	?>
 <!-- Author: Russell Allen CMSC 331 -->
+<!-- For school project -->
 
 <!doctype html>
 <html>
